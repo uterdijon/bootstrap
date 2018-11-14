@@ -1,0 +1,19 @@
+body{
+  background: url(../images/skyline.jpg) no-repeat center center fixed;
+  background-color: #464646;
+  background-size: cover;
+}
+
+#img-logo{
+  max-width: 100px;
+  max-height: 100px;
+  margin: 0 auto;
+}
+
+#login-modal .modal-dialog{
+  width: 350px;
+}
+
+#login-modal input[type=text], input[type=password]{
+  margin-top: 10px;
+}
